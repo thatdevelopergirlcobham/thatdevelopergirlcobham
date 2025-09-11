@@ -18,9 +18,9 @@ My journey as **devdawn** is about learning, creating, and sharing projects that
 
 ## 🚀 Featured Projects  
 - 💊 **Nexora Health** → My proudest project in health and wellness tech.  
-- 📝 **[Blogverse](https://github.com/thatdevelopergirlcobham/blogverse-site)** → A blog + vlog platform to share stories and creativity.  
-- 👗 **[BigCee Unisex Collections](https://github.com/thatdevelopergirlcobham/bigcee-unisex-collection)** → An e-commerce clothing store.  
-- 🍳 **[Share & Cook](https://github.com/thatdevelopergirlcobham/share-and-cook)** → A social cooking and recipe-sharing platform.  
+- 📝 **[Blogverse](https://github.com/thatdevelopercobham/blogverse-site)** → A blog + vlog platform to share stories and creativity.  
+- 👗 **[BigCee Unisex Collections](https://github.com/thatdevelopercobham/bigcee-unisex-collection)** → An e-commerce clothing store.  
+- 🍳 **[Share & Cook](https://github.com/thatdevelopercobham/share-and-cook)** → A social cooking and recipe-sharing platform.  
 
 ---
 
@@ -40,13 +40,13 @@ My journey as **devdawn** is about learning, creating, and sharing projects that
 ## 📊 GitHub Stats & Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thatdevelopercobham&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatdevelopercobham&layout=compact&theme=radical&hide_border=false" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=thatdevelopercobham&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatdevelopercobham&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=thatdevelopercobham&theme=radical&hide_border=false" alt="GitHub Streak" height="180"/>
-</p>  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=thatdevelopercobham&theme=radical" alt="GitHub Streak" height="180"/>
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thatdevelopercobham&theme=radical" alt="Profile Details"/>
@@ -59,7 +59,7 @@ My journey as **devdawn** is about learning, creating, and sharing projects that
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thatdevelopercobham&theme=radical" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thatdevelopercobham&theme=radical&utcOffset=1" alt="Commits per Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thatdevelopercobham&theme=radical" alt="Commits per Time"/>
 </p>
 
 ---
